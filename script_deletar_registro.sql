@@ -1,0 +1,1 @@
+DELETE FROM `db_sala_16`.`tbl_alunos` WHERE (`id` = '3');
